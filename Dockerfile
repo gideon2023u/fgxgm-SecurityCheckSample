@@ -9,5 +9,5 @@ COPY . .
 RUN npm install
 
 EXPOSE 8080
-
+Int.addnames 
 CMD [ "node", "index.js" ]
